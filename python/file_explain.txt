@@ -1,0 +1,8 @@
+1. NASA_access_log_Jul95.log 
+  - https://ita.ee.lbl.gov/html/contrib/NASA-HTTP.html
+
+2. access_log.csv 
+  - parsing NASA_access_log_Jul95.log 
+
+3. sample.db 
+  - import access_log.csv to sqlite3
